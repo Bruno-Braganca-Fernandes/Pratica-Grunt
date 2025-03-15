@@ -1,0 +1,26 @@
+{
+  "name": "pratica-grunt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Braganca-Fernandes/Pratica-Grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-Braganca-Fernandes/Pratica-Grunt/issues"
+  },
+  "homepage": "https://github.com/Bruno-Braganca-Fernandes/Pratica-Grunt#readme",
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}

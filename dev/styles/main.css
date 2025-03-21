@@ -94,14 +94,30 @@ form .imc-button {
   font-weight: bold;
   margin: 0;
 }
+#resultado p {
+  font-size: 16px;
+  text-align: left;
+  color: #98928e;
+}
 #resultado #imcValue {
   font-size: 36px;
   font-weight: bold;
   color: #fbbc04;
   margin: 5px 0;
 }
-#resultado #classificacao {
+.classificacaoSection {
+  background-color: #f4f4f4;
+}
+.classificacaoSection .imcClass {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 300px;
   font-size: 16px;
-  text-align: left;
-  color: #98928e;
+  background-color: #f4f4f4;
+  color: #a5a09d;
+}
+.classificacaoSection .imcClass #classificacao {
+  font-weight: bold;
+  color: #6d6b6a;
+  margin-top: 30px;
 }
